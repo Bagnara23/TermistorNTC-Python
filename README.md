@@ -10,4 +10,4 @@ PTC(do inglês Positive Temperature Coefficient), nesse o coeficiente de variaç
 
 Nesse processo utilizaremos um microcontrolador para extrair o sinal analógico, e a partir das informações do circuito iremos realizar a conversão.
 
-*A imagem do circuito lógico estára em PDF para uma melhor compreensão.
+*A imagem do circuito lógico estára em PDF (Termistor.pdf) para uma melhor compreensão.
