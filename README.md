@@ -10,4 +10,5 @@ PTC(do inglês Positive Temperature Coefficient), nesse o coeficiente de variaç
 
 Nesse processo utilizaremos um microcontrolador para extrair o sinal analógico, e a partir das informações do circuito iremos realizar a conversão.
 
+Nesse repositório há um arquivo com a classe do termistor pronta, e outro com o script para executar e testar.
 *A imagem do circuito lógico estára em PDF (Termistor.pdf) para uma melhor compreensão.
